@@ -4,36 +4,19 @@ Hi I am *Merve Nur* "Hamsimnd" 👋
 [You can find professional information about me here.](www.linkedin.com/in/merve-nur-özdemir-738514b0) 
 ## I worked actively and motivated for 5 years on Data Management, Data Visualization, Analysis on Tables and Financial Analysis. 
 ```
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Welcome to My Portfolio</h2>
+ <p align="center">I worked actively and motivated for 5 years on Data Management, Data Visualization, Analysis on Tables and Financial Analysis.</p>
+
 ### I have active experience in Python, R, SQL and Visual Basic (Excel Macro), GAMS languages.  
-![alt "Python"]([http://url/to/img.png](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-###
-<p align="center"> 
-![alt "Python"]([http://url/to/img.png](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white))
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
-<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-###
-<h1 align="center">Projects</h1>
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [My Portfolio Website](https://github.com/hamsimnd/hamsimnd)     |
+# Features
 
-###
- <h1 align="center">Let's Get Connected</h1>
-
-<div align="center">
-<a  href="https:/www.linkedin.com/in/merve-nur-özdemir-738514b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   </a>
+-   [My Projects](#My-Projects)
 
 
+# My Projects
 
-</div>
-
-
+_Obstecle Avoiding Optimizaiton with Fuzzy 
+_Name Similarity Machine learning algorithm
+_Optimizaiton Models
