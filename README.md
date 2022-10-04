@@ -8,6 +8,7 @@ Hi I am *Merve Nur* "Hamsimnd" 👋
 
 ###
 <p align="center"> 
+![alt "Python"]([http://url/to/img.png](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white))
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
