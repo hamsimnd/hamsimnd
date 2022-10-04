@@ -5,7 +5,7 @@ Hi I am *Merve Nur* "Hamsimnd" 👋
 ## I worked actively and motivated for 5 years on Data Management, Data Visualization, Analysis on Tables and Financial Analysis. 
 ```
 ### I have active experience in Python, R, SQL and Visual Basic (Excel Macro), GAMS languages.  
-
+![alt "Python"]([http://url/to/img.png](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ###
 <p align="center"> 
 ![alt "Python"]([http://url/to/img.png](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white))
