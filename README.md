@@ -12,13 +12,8 @@ Hi I am *Merve Nur* "Hamsimnd" 👋
 
 # My Projects
 
-_Obstecle Avoiding Optimizaiton with Fuzzy 
-_Name Similarity Machine learning algorithm
-_Optimizaiton Models
+-   `Fuzzy Modeling` - _Obstecle Avoiding Optimizaiton with Fuzzy_
+-   `Machine Learning` -_Name Similarity Machine learning algorithm)_
+-   `Optimization` - _Optimizaiton Models_
 
-```
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Welcome to My Portfolio</h2>
- <p align="center">I worked actively and motivated for 5 years on Data Management, Data Visualization, Analysis on Tables and Financial Analysis.</p>
 
