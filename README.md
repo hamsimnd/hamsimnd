@@ -13,7 +13,7 @@ Hi I am *Merve Nur* "Hamsimnd" 👋
 # My Projects
 
 -   `Fuzzy Modeling` - _Obstecle Avoiding Optimizaiton with Fuzzy_
--   `Machine Learning` -_Name Similarity Machine learning algorithm)_
+-   `Machine Learning` -_ Similarity and Recomendation Machine learning algorithm)_
 -   `Optimization` - _Optimizaiton Models_
 
 
